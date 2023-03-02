@@ -1,2 +1,4 @@
 # hiperblog
-Aprendiendo manejo d egit
+Aprendiendo manejo de git
+hiperblog version 2.0
+
