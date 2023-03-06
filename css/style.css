@@ -1,54 +1,23 @@
-body {
-    background: #1e1f24;
-    color: #333;
+body
+{
+    color:blue
     text-align: center;
-    font-family: Arial;
-    font-size: 16px;
+HEAD
+    background-color: black;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 10px;
+    font-weight: bold;
+    text-align: center;
     margin: 0;
-    padding: 0
-}
-
-#cabecera {
-    background: #bbada0;
-    color: #fff;
-    box-shadow: 0 2px 20px 0 rgba(228, 22, 22, 0.5);
-    color: #ffffff;
-    font-weight: 700;
-    margin: 0;
-    padding: .5em
-}
-
-#cabecera #logo {
-    width: 10px;
-    vertical-align: left;
-    margin-right: 10px
-}
-
-#cabecera #tagline {
-    padding: 0 0 0 1em;
-    font-weight: 400;
-    font-size: .8em
-}
-
-#container {
-    width: 70%;
     padding: 0;
-    text-align: left;
-    border: 1px solid #ddd;
-    margin: 0 auto
-}
-
-#container h1 {
-    font-size: 20px
-}
-
-#post {
-    background: #fff;
-    padding: 1em
-}
-#footer {
-    background: #777;
-    color: #fff;
+    background-color: black;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 10px;
+    font-weight: bold;
     text-align: center;
-    padding: .5em
-}   
+    margin: 0;   
+
+    background-color: rgb(225, 225, 235);
+cabecera
+    font-family: 'Arial', sans-serif;
+}
